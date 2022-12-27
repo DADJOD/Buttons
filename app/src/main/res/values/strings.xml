@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Buttons</string>
+    <string name="add_button_text">Add button</string>
+    <string name="button_text">Аз есмь кнопка № </string>
+</resources>
